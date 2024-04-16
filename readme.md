@@ -1,4 +1,4 @@
-# Setting UP
+# Setting Up
 
 ### Run tests
 
